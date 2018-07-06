@@ -161,10 +161,10 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/blog/Index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/blog/index.html" />
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
